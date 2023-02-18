@@ -21,3 +21,7 @@ Project Description : The primary goal of an e-commerce site is to sell goods an
 Primary Azure Technology : Azure Bot Service, Web, Static Web Apps 
 
 Other Azure Technologies : App Service
+
+
+# ScreenShot
+![Screenshot 2023-02-18 125027](https://user-images.githubusercontent.com/113056235/219847726-9e753779-1148-4e5a-8a4f-6a71634eb90a.png)
