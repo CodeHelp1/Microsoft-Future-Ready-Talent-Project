@@ -1,14 +1,15 @@
 # Microsoft-Future-Ready-Talent
 
-# This is a E-commerce Front End website design 
+ This is a E-commerce Front End website design 
 
-# Web Technologies used: HTML, CSS, JavaScript 
+ Web Technologies used: HTML, CSS, JavaScript 
 
-# IDE: VS-Code  
+ IDE: VS-Code  
 
-# Industry : Lifestyle 
+ Industry : Lifestyle 
 
-# Project Title : E-Commerce Site 
+# Project Title :
+E-Commerce Site 
 
 Project Link : https://codehelp1.github.io/Microsoft-Future-Ready-Talent-Project/
 
@@ -20,9 +21,11 @@ The purpose of any e-commerce website is to help customers narrow down their bro
 # Project Description : 
 The primary goal of an e-commerce site is to sell goods and services online. This project deals with developing an e-commerce website for Online laptop Accessories  Sale. It provides the user with a catalog of different laptop Accessories available for purchase in the store. They have the option to see each and every Details about the project.If the have any Problem customer support Facility is Also Available.
 
-# Primary Azure Technology : Azure Bot Service, Web, Static Web Apps 
+# Primary Azure Technology :
+Azure Bot Service, Web, Static Web Apps 
 
-Other Azure Technologies : App Service
+# Other Azure Technologies :
+App Service
 
 
 # ScreenShot
