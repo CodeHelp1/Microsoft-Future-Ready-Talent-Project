@@ -40,3 +40,8 @@ Mobile Device
 
 ![Screenshot 2023-02-18 130227](https://user-images.githubusercontent.com/113056235/219848032-8e62125c-65f6-448b-a9fa-4f1639cf8be8.png)
 
+Tablet Device
+![Screenshot 2023-02-18 130814](https://user-images.githubusercontent.com/113056235/219848
+![Screenshot 2023-02-18 130844](https://user-images.githubusercontent.com/113056235/219848217-3e6c9cf2-8599-4007-8939-0b3f61f8fe9a.png)
+211-5a5138ab-ba99-4482-b034-5d67a280b26f.png)
+
