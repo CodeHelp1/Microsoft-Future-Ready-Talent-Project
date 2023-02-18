@@ -24,7 +24,7 @@ Other Azure Technologies : App Service
 
 
 # ScreenShot
-#Big Screen Deveice 
+# Big Screen Deveice 
 
 ![Screenshot 2023-02-18 125027](https://user-images.githubusercontent.com/113056235/219847726-9e753779-1148-4e5a-8a4f-6a71634eb90a.png)
 
@@ -34,17 +34,23 @@ Other Azure Technologies : App Service
 
 ![Screenshot 2023-02-18 125149](https://user-images.githubusercontent.com/113056235/219847982-4ac8225b-d914-454d-9b4a-1611c65342e1.png)
 
-#Mobile Device
+
+
+# Tablet Device
+
+![Screenshot 2023-02-18 130844](https://user-images.githubusercontent.com/113056235/219848258-09dc214b-e3bb-475a-93ca-51761980c987.png)
+
+![Screenshot 2023-02-18 130814](https://user-images.githubusercontent.com/113056235/219848261-08bfa400-8b04-4398-84e3-a1ea87a450d1.png)
+
+
+
+# Mobile Device
 
 ![Screenshot 2023-02-18 130150](https://user-images.githubusercontent.com/113056235/219848026-bea33ac9-4733-4bd8-b746-2599ee3edf72.png)
 
 ![Screenshot 2023-02-18 130227](https://user-images.githubusercontent.com/113056235/219848032-8e62125c-65f6-448b-a9fa-4f1639cf8be8.png)
 
-#Tablet Device
 
-![Screenshot 2023-02-18 130844](https://user-images.githubusercontent.com/113056235/219848258-09dc214b-e3bb-475a-93ca-51761980c987.png)
-
-![Screenshot 2023-02-18 130814](https://user-images.githubusercontent.com/113056235/219848261-08bfa400-8b04-4398-84e3-a1ea87a450d1.png)
 
 
 
