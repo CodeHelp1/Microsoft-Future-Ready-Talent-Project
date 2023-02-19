@@ -10,7 +10,7 @@
  Lifestyle 
 
 ### Project Title :
-E-Commerce Site 
+Hexashop E-Commerce  
 
  ### Azure Project Link :
 https://salmon-field-00ad62d10.2.azurestaticapps.net/
